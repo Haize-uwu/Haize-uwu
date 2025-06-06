@@ -1,5 +1,5 @@
 ## My setup
-![my arch setup!](https://imgur.com/nWWZa6m)
+![my arch setup!](https://i.imgur.com/nWWZa6m.png)
 
 <!--
 **Haize-uwu/Haize-uwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
